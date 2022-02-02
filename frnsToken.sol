@@ -13,8 +13,8 @@ import "@openzeppelin/contracts/utils/structs/BitMaps.sol";
 // 1. A new smart contract to create ERC20 tokens
 // 2. A distribution plan structure to associate ERC1155 token-ID to ERC20 token amount
 // 2.1 Introducing a Struct {
-    ERC1155 token ID
-    Contract address
+//    ERC1155 token ID
+//    Contract address
 // } 
 // 2.2 mapping (Struct []=> amount) 
 // 3. A storage structure to store information about claimed tokens
