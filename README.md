@@ -5,3 +5,4 @@ I am currently coding with solidity lang on Ethereum and building a UI using Fig
 Domains I own to host various interfaces I build: frns.cards. phaethon.eth<br>
 
 My favourite school is the Architectural Association of London<br>
+Its Ethernaut season
